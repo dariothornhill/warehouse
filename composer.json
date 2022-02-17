@@ -1,0 +1,21 @@
+{
+    "name": "dariothornhill/warehouse_location",
+    "description": "Algorithm for optimizing location fo warehouse on grid map.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dariothornhill\\WarehouseLocation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dario Thornhill",
+            "email": "dariothornhill@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "10.0.x-dev"
+    }
+}

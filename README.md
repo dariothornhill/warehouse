@@ -16,6 +16,7 @@ php8.1-xdebug
 
 ## Getting Started
 ```bash
+$ composer install
 $ chmod +x test.sh
 $ ./test.sh
 $ php src/main.php
